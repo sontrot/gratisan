@@ -185,10 +185,10 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="magnachannel.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",Magna Channel
-http://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="metroglobenetwork.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png",Metro Globe Network
-http://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bntv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png",BN Channel
 http://mooncang.my.id/api/youtube/ytl.php?url=http://youtu.be/0Kln8aj0v3E
@@ -239,7 +239,7 @@ http://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4
 http://v6.siar.us/madutv/hd720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="saktitv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png",Sakti TV
-http://v2.siar.us/saktitv/livestream/playlist.m3u8
+http://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="surabayatv.id" tvg-logo="http://surabayatv.tv/wp-content/uploads/2021/11/logo-Surabaya-TV-baru-stroke-300x55.png",Surabaya TV
 http://v3.siar.us/surabayatv/live/playlist.m3u8

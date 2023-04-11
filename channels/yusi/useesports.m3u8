@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=1280x720,NAME="720p"
+https://api.beetv.my.id/new/useesport.m3u8?toket=fa5cccdb13e660c0aa23e20b76caca53da6f228f50df067c88b86bff86dd4b67&exp=1681261291

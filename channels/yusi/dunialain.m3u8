@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=1280x720,NAME="720p"
+https://api.beetv.my.id/new/dunialain.m3u8?toket=5ade084cdf2ab3c2cbd6b962748fbd18ed5d47e1bca4f33435e4f0b47a7efb79&exp=1681262006

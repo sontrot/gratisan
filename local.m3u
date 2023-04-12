@@ -148,7 +148,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-1 group-title="National/Local;Sports" tvg-id="ochannel.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
-http://beetv.my.id/x/oxygen-moji-gojokkk.m3u8
+https://bit.ly/playlist-moji
 
 #EXTINF:-1 group-title="National/Local;Kids" tvg-id="mentaritv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 http://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8

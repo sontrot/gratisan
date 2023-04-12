@@ -1,4 +1,13 @@
 #EXTM3U
-#EXTINF:600,
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/thefirefox12537/pl_12537iptv/master/nosignal/01.ts
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXTINF:10,
+pal.ts
+#EXTINF:10,
+pal.ts
+#EXTINF:10,
+pal.ts
+#EXTINF:10,
+pal.ts
+#EXTINF:10,
+pal.ts

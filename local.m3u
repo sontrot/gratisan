@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTM3U billed-msg="12537.stream.ip.tv  —  Selamat menunaikan ibadah puasa Ramadhan 1444 H"
-#EXTM3U x-tvg-url="http://stavol.masuk.web.id/epg.xml, http://epg.kampung.xyz/IPTV.xml, http://www.bevy.be/bevyfiles/indonesia.xml, http://www.bevy.be/bevyfiles/indonesiapremium1.xml, http://www.bevy.be/bevyfiles/indonesiapremium2.xml, http://www.bevy.be/bevyfiles/indonesiapremium3.xml, http://www.bevy.be/bevyfiles/indonesiapremium4.xml" refresh="3600"
+#EXTM3U x-tvg-url="http://stavol.masuk.web.id/epg.xml, http://www.bevy.be/bevyfiles/indonesia.xml, http://www.bevy.be/bevyfiles/indonesiapremium1.xml, http://www.bevy.be/bevyfiles/indonesiapremium2.xml, http://www.bevy.be/bevyfiles/indonesiapremium3.xml, http://www.bevy.be/bevyfiles/indonesiapremium4.xml" refresh="3600"
 
 
 ######## INFORMATION ########
@@ -23,7 +23,7 @@ http://thefirefox12537.github.io/pl_12537iptv/nosignal/index.m3u8
 #EXTINF:-1 group-title="< INFORMATION >" group-logo="http://raw.githubusercontent.com/thefirefox12537/pl_12537iptv/master/logo.png" tvg-logo="http://raw.githubusercontent.com/thefirefox12537/pl_12537iptv/master/logo.png",THANKS TO USING THIS PLAYLIST
 http://thefirefox12537.github.io/pl_12537iptv/nosignal/index.m3u8
 
-#EXTINF:-1 group-title="< INFORMATION >" group-logo="http://raw.githubusercontent.com/thefirefox12537/pl_12537iptv/master/logo.png" tvg-logo="http://raw.githubusercontent.com/thefirefox12537/pl_12537iptv/master/logo.png",Visit - t.me/pl_12537iptv
+#EXTINF:-1 group-title="< INFORMATION >" group-logo="http://raw.githubusercontent.com/thefirefox12537/pl_12537iptv/master/logo.png" tvg-logo="http://raw.githubusercontent.com/thefirefox12537/pl_12537iptv/master/logo.png",VISIT t.me/pl_12537iptv
 http://thefirefox12537.github.io/pl_12537iptv/nosignal/index.m3u8
 
 
@@ -151,12 +151,13 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 https://bit.ly/playlist-moji
 
 #EXTINF:-1 group-title="National/Local;Kids" tvg-id="mentaritv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
-http://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
+http://tvnid.x10.mx/1/master-3.m3u8
 
 ######## VIVA GROUP ########
 
 #EXTINF:-1 group-title="National/Local;Entertainment" tvg-id="antv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",ANTV
-http://beetv.my.id/x/oxygen-antv-gojokkk.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://rr2.dens.tv/s/s07/index.m3u8
 
 #EXTINF:-1 group-title="National/Local;News" tvg-id="tvone.id" tvg-logo="http://i.imgur.com/iZXjOH4.png",tvOne
 http://mooncang.my.id/api/youtube/ytl.php?url=http://youtube.com/c/tvonenews/live
@@ -195,17 +196,18 @@ http://mooncang.my.id/api/youtube/ytl.php?url=http://youtu.be/0Kln8aj0v3E
 ######## KOMPAS GRAMEDIA ########
 
 #EXTINF:-1 group-title="National/Local;News" tvg-id="kompastv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV
-http://beetv.my.id/x/oxygen-kompastv-gojokkk.m3u8
+http://mooncang.my.id/api/youtube/ytl.php?url=https://youtube.com/c/kompastv/live
 
 ######## NET MEDIATAMA ########
 
 #EXTINF:-1 group-title="National/Local;Entertainment" tvg-id="net.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/640px-NET._sky_blue.svg.png",NET
-http://beetv.my.id/x/oxygen-nettv-gojokkk.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://rr2.dens.tv/s/s08/index.m3u8
 
 ######## RAJAWALI CORP ########
 
 #EXTINF:-1 group-title="National/Local;Kids" tvg-id="rajawalitv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png",RTV
-http://beetv.my.id/x/oxygen-rtv-gojokkk.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 ######## OTHER ########
 
@@ -249,10 +251,11 @@ http://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 http://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 
 #EXTINF:-1 group-title="National/Local;Religion" tvg-id="daaitv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",DAAITV
-http://beetv.my.id/x/oxygen-daaitv-gojokkk.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://rr2.dens.tv/s/s13/index.m3u8
 
 #EXTINF:-1 group-title="National/Local;Entertainment" tvg-id="jaktv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png",JakTV
-http://beetv.my.id/x/oxygen-jaktv-gojokkk.m3u8
+http://103.102.15.12:1111/stream/channelid/2034042450?ticket=2EFCE91CA9FD5B1F9DFF34E37A9CF24C679D840F&profile=pass
 
 #EXTINF:-1 group-title="National/Local;Religion" tvg-id="inspiratv.id" tvg-logo="http://i.imgur.com/P52FAaB.png",Inspira TV
 http://inspiratv.siar.us/inspiratv/live/playlist.m3u8

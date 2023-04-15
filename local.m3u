@@ -148,7 +148,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-1 group-title="National/Local;Sports" tvg-id="ochannel.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
-https://bit.ly/playlist-moji
+http://bit.ly/playlist-moji
 
 #EXTINF:-1 group-title="National/Local;Kids" tvg-id="mentaritv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 http://tvnid.x10.mx/1/master-3.m3u8
@@ -160,7 +160,7 @@ http://tvnid.x10.mx/1/master-3.m3u8
 http://rr2.dens.tv/s/s07/index.m3u8
 
 #EXTINF:-1 group-title="National/Local;News" tvg-id="tvone.id" tvg-logo="http://i.imgur.com/iZXjOH4.png",tvOne
-http://mooncang.my.id/api/youtube/ytl.php?url=http://youtube.com/c/tvonenews/live
+http://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=skyactiv&a=yNKvkPJl-tg
 
 #EXTINF:-1 group-title="National/Local;Entertainment" tvg-id="vivatelevisi.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV (VIVA TV)
 http://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
@@ -191,12 +191,12 @@ http://edge.metrotvnews.com:1935/live-edge/smil:magna.smil/playlist.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="National/Local;News" tvg-id="bntv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png",BN Channel
-http://mooncang.my.id/api/youtube/ytl.php?url=http://youtu.be/0Kln8aj0v3E
+http://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=skyactiv&a=0Kln8aj0v3E
 
 ######## KOMPAS GRAMEDIA ########
 
 #EXTINF:-1 group-title="National/Local;News" tvg-id="kompastv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV
-http://mooncang.my.id/api/youtube/ytl.php?url=https://youtube.com/c/kompastv/live
+http://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=skyactiv&a=4rmf-lk3ito
 
 ######## NET MEDIATAMA ########
 
@@ -207,7 +207,7 @@ http://rr2.dens.tv/s/s08/index.m3u8
 ######## RAJAWALI CORP ########
 
 #EXTINF:-1 group-title="National/Local;Kids" tvg-id="rajawalitv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/640px-Rajawali_Televisi.svg.png",RTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+http://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 ######## OTHER ########
 
@@ -223,6 +223,9 @@ http://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
 #EXTINF:-1 group-title="National/Local;News" tvg-id="bbstv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_BBS_TV_2018.png",BBSTV
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
+#EXTINF:-1 group-title="National/Local;Undefined" tvg-logo="http://i.postimg.cc/28yt82SG/1681588182277.png",Citra TV
+http://122.248.43.138:1935/ch28/myStream/chunklist.m3u8
+
 #EXTINF:-1 group-title="National/Local;Religion" tvg-logo="http://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png",Dhamma TV
 http://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
@@ -234,6 +237,9 @@ http://v2.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="National/Local;Entertainment" tvg-id="jtv.id" tvg-logo="http://jtv.co.id/wp-content/uploads/2021/09/logo-jtv-oke.png",JTV
 http://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+
+#EXTINF:-1 group-title="National/Local;Undefined" tvg-logo="http://i.postimg.cc/SKK5rpmV/1681551625750.png",Kilisuci TV
+http://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
 #EXTINF:-1 group-title="National/Local;Religion" tvg-logo="http://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV
 http://v6.siar.us/madutv/hd720/playlist.m3u8
